@@ -1,6 +1,8 @@
 # For Training Purpose Only
 We will try and complete most of these workflows
 This is being added to demonstrate commit without staging
+## Git merge
+Making changes in the branch feature/addition
 # Important note
 
 As of September 2023, sgkit used in Chapter 6 has a bug. If you use Chapter 6, `pip install` this:
